@@ -98,8 +98,6 @@ After 5 extractions, the interface locks and presents a **Premium Upgrade** scre
 4. Paste the key into the license field and click **`Verify`**
 5. Premium activates instantly — no restart required
 
-> 🔑 **Your license key format:** `PREMIUM_SCRAPER_2026` (example — your actual key is unique per purchase)
-
 ---
 
 ## Technical Details
